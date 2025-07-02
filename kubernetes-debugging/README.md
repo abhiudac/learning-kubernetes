@@ -48,7 +48,7 @@ uid=0(root) gid=0(root) groups=10(wheel)
 - `--target` lets the ephemeral container targeting processes
   in the defined container name inside a pod.
 
-<br />
+<br/>
 
 ```shell
 kubectl describe pod some-app
